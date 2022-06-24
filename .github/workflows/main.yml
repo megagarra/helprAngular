@@ -17,5 +17,5 @@ jobs:
         build_configuration: production
         base_href: https://megagarra.github.io/helprAngular
 /
-        deploy_branch: gh-pages
+        deploy_branch: paginaHelpr
         angular_dist_build_folder: dist/helpr
